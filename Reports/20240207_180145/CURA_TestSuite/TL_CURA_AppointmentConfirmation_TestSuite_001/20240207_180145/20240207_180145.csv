@@ -1,0 +1,15 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TL_CURA_AppointmentConfirmation_TestSuite_001,Chrome 121.0.0.0,,,07-02-2024 18:01:53,07-02-2024 18:02:25,32.618s,PASSED
+,,,,,,,
+Test Cases/TestListener1/TC_TL_AppointmentConfirmation_001,Chrome 121.0.0.0,,,07-02-2024 18:02:09,07-02-2024 18:02:25,16.427s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,07-02-2024 18:02:09,07-02-2024 18:02:12,3.074s,PASSED
+"click(findTestObject(""Object Repository/TL_CURA_Page_OR/Page_CURA Healthcare Service/h2_Make Appointment""))",Chrome 121.0.0.0,,,07-02-2024 18:02:13,07-02-2024 18:02:13,0.486s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/TL_CURA_Page_OR/Page_CURA Healthcare Service/select_Tokyo CURA Healthcare Center        _5b4107""), ""Hongkong CURA Healthcare Center"", true)",Chrome 121.0.0.0,,,07-02-2024 18:02:13,07-02-2024 18:02:14,1.361s,PASSED
+"click(findTestObject(""Object Repository/TL_CURA_Page_OR/Page_CURA Healthcare Service/input_programs""))",Chrome 121.0.0.0,,,07-02-2024 18:02:14,07-02-2024 18:02:16,1.733s,PASSED
+"click(findTestObject(""Object Repository/TL_CURA_Page_OR/Page_CURA Healthcare Service/span_glyphicon glyphicon-calendar""))",Chrome 121.0.0.0,,,07-02-2024 18:02:16,07-02-2024 18:02:18,2.038s,PASSED
+"click(findTestObject(""Object Repository/TL_CURA_Page_OR/Page_CURA Healthcare Service/td_13""))",Chrome 121.0.0.0,,,07-02-2024 18:02:18,07-02-2024 18:02:19,0.648s,PASSED
+"setText(findTestObject(""Object Repository/TL_CURA_Page_OR/Page_CURA Healthcare Service/textarea_comment""), ""General checkup"")",Chrome 121.0.0.0,,,07-02-2024 18:02:19,07-02-2024 18:02:20,0.847s,PASSED
+"click(findTestObject(""Object Repository/TL_CURA_Page_OR/Page_CURA Healthcare Service/button_Book Appointment""))",Chrome 121.0.0.0,,,07-02-2024 18:02:20,07-02-2024 18:02:22,2.342s,PASSED
+"click(findTestObject(""Object Repository/TL_CURA_Page_OR/Page_CURA Healthcare Service/h2_Appointment Confirmation""))",Chrome 121.0.0.0,,,07-02-2024 18:02:22,07-02-2024 18:02:23,0.536s,PASSED
+"verifyCheckpoint(findCheckpoint(""Checkpoints/Checkpoint_TestData/Cura_AppointmentConfirmation_TestData_checkpoint""), true)",Chrome 121.0.0.0,,,07-02-2024 18:02:23,07-02-2024 18:02:23,0.165s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,07-02-2024 18:02:23,07-02-2024 18:02:25,2.492s,PASSED

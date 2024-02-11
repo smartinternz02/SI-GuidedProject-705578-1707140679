@@ -1,0 +1,14 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TL_CURA_AppointmentConfirmation_TestSuite_001,Chrome 121.0.0.0,,,06-02-2024 19:37:32,06-02-2024 19:38:00,28.579s,PASSED
+,,,,,,,
+Test Cases/TestListener1/TC_TL_AppointmentConfirmation_001,Chrome 121.0.0.0,,,06-02-2024 19:37:48,06-02-2024 19:38:00,12.031s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,06-02-2024 19:37:48,06-02-2024 19:37:51,2.903s,PASSED
+"click(findTestObject(""Object Repository/TL_CURA_Page_OR/Page_CURA Healthcare Service/h2_Make Appointment""))",Chrome 121.0.0.0,,,06-02-2024 19:37:51,06-02-2024 19:37:52,0.433s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/TL_CURA_Page_OR/Page_CURA Healthcare Service/select_Tokyo CURA Healthcare Center        _5b4107""), ""Hongkong CURA Healthcare Center"", true)",Chrome 121.0.0.0,,,06-02-2024 19:37:52,06-02-2024 19:37:53,1.168s,PASSED
+"click(findTestObject(""Object Repository/TL_CURA_Page_OR/Page_CURA Healthcare Service/input_programs""))",Chrome 121.0.0.0,,,06-02-2024 19:37:53,06-02-2024 19:37:54,0.653s,PASSED
+"click(findTestObject(""Object Repository/TL_CURA_Page_OR/Page_CURA Healthcare Service/span_glyphicon glyphicon-calendar""))",Chrome 121.0.0.0,,,06-02-2024 19:37:54,06-02-2024 19:37:54,0.494s,PASSED
+"click(findTestObject(""Object Repository/TL_CURA_Page_OR/Page_CURA Healthcare Service/td_13""))",Chrome 121.0.0.0,,,06-02-2024 19:37:54,06-02-2024 19:37:55,0.492s,PASSED
+"setText(findTestObject(""Object Repository/TL_CURA_Page_OR/Page_CURA Healthcare Service/textarea_comment""), ""General checkup"")",Chrome 121.0.0.0,,,06-02-2024 19:37:55,06-02-2024 19:37:56,0.943s,PASSED
+"click(findTestObject(""Object Repository/TL_CURA_Page_OR/Page_CURA Healthcare Service/button_Book Appointment""))",Chrome 121.0.0.0,,,06-02-2024 19:37:56,06-02-2024 19:37:58,2.121s,PASSED
+"click(findTestObject(""Object Repository/TL_CURA_Page_OR/Page_CURA Healthcare Service/h2_Appointment Confirmation""))",Chrome 121.0.0.0,,,06-02-2024 19:37:58,06-02-2024 19:37:58,0.453s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,06-02-2024 19:37:58,06-02-2024 19:38:00,1.966s,PASSED

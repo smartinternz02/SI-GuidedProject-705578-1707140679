@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="TL_CURA_AppointmentConfirmation_TestSuite_001" time="26.386" tests="0" failures="0" errors="0">
+   <testsuite name="TL_CURA_AppointmentConfirmation_TestSuite_001" tests="0" failures="0" errors="0" time="26.386" skipped="0" timestamp="08-02-2024T17:34:14" hostname="Windows - DESKTOP-4I15GC1" id="Test Suites/CURA_TestSuite/TL_CURA_AppointmentConfirmation_TestSuite_001">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\Windows\\git\\Cura-Healthcare\\Reports\\20240208_173402\\CURA_TestSuite\\TL_CURA_AppointmentConfirmation_TestSuite_001\\20240208_173402"/>
+         <property name="logFiles" value="C:\\Users\\Windows\\git\\Cura-Healthcare\\Reports\\20240208_173402\\CURA_TestSuite\\TL_CURA_AppointmentConfirmation_TestSuite_001\\20240208_173402\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="Windows - DESKTOP-4I15GC1"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="9.2.0.212"/>
+         <property name="browser" value="Chrome 121.0.0.0"/>
+         <property name="hostAddress" value="172.16.140.91"/>
+         <property name="sessionId" value="961a5921295c4979f94cf3d08f26d05e"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 11"/>
+      </properties>
+      <system-out><![CDATA[08-02-2024T17:34:14 - [TEST_SUITE][PASSED] - TL_CURA_AppointmentConfirmation_TestSuite_001: null]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

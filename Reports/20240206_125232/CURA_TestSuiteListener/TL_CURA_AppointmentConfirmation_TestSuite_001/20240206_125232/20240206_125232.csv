@@ -1,0 +1,7 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TL_CURA_AppointmentConfirmation_TestSuite_001,Chrome 121.0.0.0,,,06-02-2024 12:52:48,06-02-2024 12:56:12,3m - 24.108s,FAILED
+,,,,,,,
+Test Cases/TestListener1/TC_TL_AppointmentConfirmation_001,Chrome 121.0.0.0,,,06-02-2024 12:56:11,06-02-2024 12:56:12,0.937s,FAILED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,06-02-2024 12:56:11,06-02-2024 12:56:11,0.194s,ERROR
+"selectOptionByValue(findTestObject(""Object Repository/TL_CURA_PAGE_OR/Page_CURA Healthcare Service/select_Tokyo CURA Healthcare Center        _5b4107""), ""Hongkong CURA Healthcare Center"", true)",Chrome 121.0.0.0,,,06-02-2024 12:56:11,06-02-2024 12:56:11,0.392s,FAILED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,06-02-2024 12:56:11,06-02-2024 12:56:12,0.225s,ERROR
